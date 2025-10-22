@@ -1,21 +1,29 @@
-# Developer Cheatsheets
+# holbertonschool-cours
 
-Une collection de fiches mémo claires et structurées regroupant les outils et commandes essentiels utilisés en développement.  
-Ce dépôt a pour unique but de servir de référence personnelle rapide.
-
----
-
-## Contenu
-
-| Catégorie | Description |
-|-----------|-------------|
-| Shell     | Commandes et options les plus courantes pour naviguer, gérer des fichiers et automatiser |
-| Git       | Commandes indispensables pour la gestion de versions et la collaboration |
-| Vim       | Raccourcis et modes essentiels pour éditer efficacement |
-| Emacs     | Commandes de base pour naviguer et éditer |
+Bienvenue dans **holbertonschool-cours**, une collection organisée de ressources, cours et exercices autour des programmes de la Holberton School et de l’informatique en général.
 
 ---
 
-## Note
+## 📘 À propos
 
-Ces fiches sont destinées à un usage personnel ou pour toute personne souhaitant retrouver rapidement les commandes de base.
+Ce dépôt a pour objectif de centraliser mes apprentissages, mes révisions et mes travaux pratiques tout au long du cursus. Il peut servir de référence à toute personne souhaitant explorer ou revoir les fondamentaux du développement.
+
+---
+
+## 🗂 Structure du dépôt
+
+| Dossier                            | Contenu                                                   |
+|-----------------------------------|------------------------------------------------------------|
+| `Holberton_Basics_v1.1`          | Cours et exercices « basics » du programme                 |
+| `SEIP-Part_1`                     | Partie 1 du programme SEIP (ou autre bloc)                 |
+| `README.md`                       | Ce fichier de présentation                                 |
+
+> Les noms de dossiers peuvent évoluer au fil du temps pour refléter la progression du programme et les nouveaux modules.
+
+---
+
+## ✅ Comment l’utiliser
+
+1. Clone le dépôt :  
+   ```bash
+   git clone https://github.com/LenyBl/holbertonschool-cours.git
