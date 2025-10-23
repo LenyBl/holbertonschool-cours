@@ -286,6 +286,6 @@ Total : 9 paires
 ## 👤 Auteur
 **Projet Holberton School – Low Level Programming**  
 👨‍💻 *Leny Bl*  
-📁 Dossier : `0x02-functions_nested_loops`  
+📁 Dossier : `functions_nested_loops`  
 📅 Année : 2025  
 📜 Licence : MIT

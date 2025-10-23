@@ -242,6 +242,6 @@ int main(void)
 ## 👤 Auteur
 **Projet Holberton School – Low Level Programming**  
 👨‍💻 *Leny Bl*  
-📁 Dossier : `0x01-variables_if_else_while`  
+📁 Dossier : `variables_if_else_while`  
 📅 Année : 2025  
 📜 Licence : MIT
